@@ -1,5 +1,5 @@
 # my_first_repository
-Hello!:
+Hello!
 Hi Zsolt!
 Bye Zsolt!
 Hello again!
